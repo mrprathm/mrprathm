@@ -2,12 +2,11 @@
 
 ![MasterHead](https://user-images.githubusercontent.com/74352611/151704311-fa5649c9-6fac-4640-9b7e-54a3d760521a.gif)
 
-<h1 align="center">I'm Parth Tagadpallewar</h1>
+<h1 align="center">I'm Pratham Rathod</h1>
 
-- 🔭 I’m currently working on **Web and JAVA **
-- 🌱 I’m currently learning **MERN**
-- 📫 How to reach me **21512051.dypit@dypvp.edu.in**
-- 👨‍🎓 My all projects on **[Github](https://github.com/itzParthT)**
+- 🔭 I’m currently working on **Web and C++ **
+- 📫 How to reach me **prathamrathod200@gmail.com**
+- 👨‍🎓 My all projects on **[Github](https://github.com/mrprathm)**
 
 <p align="center">&nbsp;
 <img style="height:350px; width:400px;" align="center" alt="CodingImg" src="GitHub GIF.gif"/>
@@ -20,8 +19,8 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/parth-tagadpallewar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itzParthT" height="27" width="37" /></a>
-<a href="https://instagram.com/parth.tagadpallewar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Parth T" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pratham-rathod-210ab022a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrprathm" height="27" width="37" /></a>
+<a href="https://www.instagram.com/mr_prathamm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Parth T" height="30" width="40" /></a>
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzParthT&show_icons=true&locale=en&theme=algolia" alt="itzParthT" /></p>
