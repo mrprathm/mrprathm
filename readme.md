@@ -12,18 +12,18 @@
 <img style="height:350px; width:400px;" align="center" alt="CodingImg" src="GitHub GIF.gif"/>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=itzParthT&label=Profile%20views&color=0e75b6&style=flat" alt="itzParthT" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mrprathm&label=Profile%20views&color=0e75b6&style=flat" alt="mrprathm" /> </p>
 <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=itzParthT" alt="visitor badge"/> -->
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=itzParthT&theme=algolia&margin-w=20" alt="itzParthT" /></a> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mrprathm&theme=algolia&margin-w=20" alt="mrprathm" /></a> </p>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/pratham-rathod-210ab022a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrprathm" height="27" width="37" /></a>
-<a href="https://www.instagram.com/mr_prathamm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Parth T" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mr_prathamm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrprathm" height="30" width="40" /></a>
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzParthT&show_icons=true&locale=en&theme=algolia" alt="itzParthT" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrprathm&show_icons=true&locale=en&theme=algolia" alt="mrprathm" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzParthT&theme=algolia" alt="itzParthT" /></p>
 
