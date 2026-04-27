@@ -18,7 +18,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=E94560&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=🚀+Building+Scalable+Web+Applications;☕+Java+%7C+Spring+Boot+%7C+Hibernate+%7C+REST+APIs;⚛️+React.js+%7C+JavaScript+%7C+HTML+%7C+CSS;🤖+Python+%7C+Machine+Learning+%7C+AI;🗄️+MySQL+%7C+JPA+%7C+JWT+%7C+Swagger+UI)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=E94560&center=true&vCenter=true&repeat=true&width=600&lines=🚀+Building+Scalable+Web+Applications;☕+Java+%7C+Spring+Boot+%7C+Hibernate+%7C+REST+APIs;⚛️+React.js+%7C+JavaScript+%7C+HTML+%7C+CSS;🤖+Python+%7C+Machine+Learning+%7C+AI;🗄️+MySQL+%7C+JPA+%7C+JWT+%7C+Swagger+UI)
 
 </div>
 
@@ -46,13 +46,6 @@ public class PrathamRathod extends Developer {
     private final String degree2   = "Diploma CSE — Gramin Polytechnic, Nanded | 90.74%";
     private final String school    = "SSC — Raja Bhaigirath Vidyalaya, Nanded | 65%";
 
-    // ── Currently Working On ───────────────────────────────
-    private final String[] projects = {
-        "🛒 Full Stack E-Commerce — Spring Boot + React.js + MySQL",
-        "🤖 AI Document Chatbot — Python + Gemini AI + React",
-        "📡 REST APIs with JWT Security & Swagger Docs"
-    };
-
     // ── Interests ──────────────────────────────────────────
     private final String[] interests = {
         "Backend Development", "Artificial Intelligence",
@@ -72,55 +65,74 @@ public class PrathamRathod extends Developer {
 ## 🛠️ Skills & Technologies
 
 <table>
-  <tr>
-    <td valign="top" width="33%">
+<tr>
+<td valign="top" width="50%">
 
-### ☕ Full Stack Java
+### ☕ Full Stack Java Development
 ```
-Java 17          ████████████  Expert
-Spring Boot      ████████████  Expert
-Spring Security  ██████████░░  Advanced
-Hibernate / JPA  ██████████░░  Advanced
-REST APIs        ████████████  Expert
-JWT Auth         █████████░░░  Advanced
-Maven            ████████░░░░  Intermediate
-Swagger UI       ████████░░░░  Intermediate
-JDBC             ███████░░░░░  Intermediate
+Java 17            ████████████░  90%
+Spring Boot 3.x    ████████████░  90%
+Spring Security    ██████████░░░  80%
+Hibernate / JPA    ██████████░░░  80%
+REST APIs          ████████████░  90%
+JWT Authentication █████████░░░░  75%
+JDBC               ████████░░░░░  70%
+Maven              ████████░░░░░  70%
+Swagger / OpenAPI  ████████░░░░░  70%
+MVC Architecture   ██████████░░░  80%
+OOP Concepts       ████████████░  90%
 ```
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
 ### 🤖 AI / Machine Learning
 ```
-Python           ██████████░░  Advanced
-Machine Learning █████████░░░  Advanced
-TensorFlow       ███████░░░░░  Intermediate
-Scikit-Learn     ████████░░░░  Intermediate
-NumPy / Pandas   ████████░░░░  Intermediate
-OpenCV           ██████░░░░░░  Intermediate
-Gemini AI API    ████████░░░░  Intermediate
-NLP Basics       ██████░░░░░░  Learning
+Python             ██████████░░░  80%
+Machine Learning   █████████░░░░  75%
+TensorFlow         ███████░░░░░░  60%
+Scikit-Learn       ████████░░░░░  65%
+NumPy / Pandas     ████████░░░░░  65%
+OpenCV             ███████░░░░░░  60%
+Gemini AI API      ████████░░░░░  65%
+Data Analysis      ███████░░░░░░  60%
+NLP Basics         ██████░░░░░░░  55%
 ```
 
 </td>
-<td valign="top" width="33%">
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-### 🌐 Frontend & Tools
+### 🌐 Frontend Development
 ```
-React.js         █████████░░░  Advanced
-JavaScript       █████████░░░  Advanced
-HTML5 / CSS3     ████████████  Expert
-Bootstrap        ██████████░░  Advanced
-Firebase Auth    ████████░░░░  Intermediate
-Git / GitHub     ██████████░░  Advanced
-MySQL            ██████████░░  Advanced
-VS Code          ████████████  Expert
-IntelliJ IDEA    ████████████  Expert
+HTML5              ████████████░  90%
+CSS3               ████████████░  90%
+JavaScript (ES6+)  ██████████░░░  80%
+React.js           █████████░░░░  75%
+Bootstrap          ██████████░░░  80%
+Firebase Auth      ████████░░░░░  65%
+Responsive Design  ██████████░░░  80%
+REST API Consume   ██████████░░░  80%
 ```
 
 </td>
-  </tr>
+<td valign="top" width="50%">
+
+### 🗄️ Database & Tools
+```
+MySQL              ██████████░░░  80%
+JPA / Hibernate    ██████████░░░  80%
+Git / GitHub       ██████████░░░  80%
+IntelliJ IDEA      ████████████░  90%
+VS Code            ████████████░  90%
+Postman            █████████░░░░  75%
+Eclipse            ████████░░░░░  65%
+Linux/Terminal     ███████░░░░░░  60%
+```
+
+</td>
+</tr>
 </table>
 
 ---
@@ -129,17 +141,18 @@ IntelliJ IDEA    ████████████  Expert
 
 <div align="center">
 
-**Backend**
+**☕ Full Stack Java**
 
 ![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.2-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**AI / ML**
+**🤖 AI / Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -147,9 +160,9 @@ IntelliJ IDEA    ████████████  Expert
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-**Frontend**
+**🌐 Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -158,7 +171,7 @@ IntelliJ IDEA    ████████████  Expert
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**Database & Tools**
+**🗄️ Database & Tools**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -166,6 +179,7 @@ IntelliJ IDEA    ████████████  Expert
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 </div>
 
@@ -183,16 +197,6 @@ IntelliJ IDEA    ████████████  Expert
 <div align="center">
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrprathm&theme=tokyonight&hide_border=true&ring=e94560&fire=e94560&currStreakLabel=e94560&background=0d1117&stroke=e94560)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=mrprathm&theme=tokyonight&column=7&margin-w=8&no-bg=true&no-frame=true)
 
 </div>
 
