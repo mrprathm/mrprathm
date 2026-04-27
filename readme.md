@@ -1,33 +1,168 @@
-<h1 align="center">Hello Folks 👋</h1>
+<div align="center">
 
-![MasterHead](https://user-images.githubusercontent.com/74352611/151704311-fa5649c9-6fac-4640-9b7e-54a3d760521a.gif)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pratham%20Rathod&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Java%20Developer%20%7C%20Spring%20Boot%20%7C%20React.js%20%7C%20MySQL&descAlignY=55&descSize=16"/>
 
-<h1 align="center">I'm Pratham Rathod</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F0C040&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=👋+Hello%2C+I'm+Pratham+Rathod!;💻+Full+Stack+Java+Developer;🚀+Spring+Boot+%7C+React.js+%7C+MySQL;🎯+Building+Scalable+Web+Applications)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **Web and C++ **
-- 📫 How to reach me **prathamrathod200@gmail.com**
-- 👨‍🎓 My all projects on **[Github](https://github.com/mrprathm)**
+<img src="https://komarev.com/ghpvc/?username=mrprathm&label=Profile%20Views&color=d4a843&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<a href="https://github.com/mrprathm?tab=followers"><img src="https://img.shields.io/github/followers/mrprathm?label=Followers&style=for-the-badge&color=d4a843" /></a>
 
-<p align="center">&nbsp;
-<img style="height:350px; width:400px;" align="center" alt="CodingImg" src="GitHub GIF.gif"/>
-</p>
+</div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mrprathm&label=Profile%20views&color=0e75b6&style=flat" alt="mrprathm" /> </p>
-<!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=itzParthT" alt="visitor badge"/> -->
+---
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mrprathm&theme=algolia&margin-w=20" alt="mrprathm" /></a> </p>
+## 👨‍💻 About Me
 
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/pratham-rathod-210ab022a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrprathm" height="27" width="37" /></a>
-<a href="https://www.instagram.com/mr_prathamm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrprathm" height="30" width="40" /></a>
-</p>
+```java
+public class PrathamRathod {
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrprathm&show_icons=true&locale=en&theme=algolia" alt="mrprathm" /></p>
+    String name        = "Pratham Rathod";
+    String role        = "Full Stack Java Developer";
+    String location    = "Pune, Maharashtra 🇮🇳";
+    String email       = "prathamrathod200@gmail.com";
+    String phone       = "+91-9890394356";
+    
+    String[] education = {
+        "B.E. Information Technology — D.Y. Patil, Pune (CGPA: 8.10)",
+        "Diploma in CSE — Gramin Polytechnic, Nanded (90.74%)"
+    };
+    
+    String[] currentlyWorking = {
+        "🛒 E-Commerce Platform (Spring Boot + React.js)",
+        "📱 REST API Development",
+        "⚡ Full Stack Web Applications"
+    };
+    
+    String funFact = "I turn ☕ coffee into </code>!";
+}
+```
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzParthT&theme=algolia" alt="itzParthT" /></p>
+---
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrprathm&show_icons=true&locale=en&layout=compact&theme=algolia" alt="mrprathm" /></p>
+## 🛠️ Tech Stack
 
-<h2 align="center">Languages and Tools:</h2>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<div align="center">
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/mrprathm/EcommerceBackend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrprathm&repo=EcommerceBackend&theme=radical&border_color=d4a843&title_color=d4a843&icon_color=d4a843" />
+</a>
+&nbsp;
+<a href="https://github.com/mrprathm/EcommerceFrontend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrprathm&repo=EcommerceFrontend&theme=radical&border_color=d4a843&title_color=d4a843&icon_color=d4a843" />
+</a>
+
+</div>
+
+### 🛒 Rathod Store — Full Stack E-Commerce Platform
+
+> **Tech:** Java 17 | Spring Boot 3.2 | MySQL | JWT | React.js | REST APIs | Swagger UI
+
+| Feature | Description |
+|---|---|
+| 🔐 JWT Auth | Secure login/register with role-based access |
+| 🛍️ Products | CRUD with pagination, search & category filter |
+| 🛒 Cart | Real-time add/remove/update items |
+| 📦 Orders | Place & track orders with status updates |
+| ⚡ Admin Panel | Manage products, orders & statistics |
+| 🌙 Dark/Light Theme | Premium Gold & Black + Clean White theme |
+| 📚 Swagger UI | Interactive API documentation |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrprathm&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=d4a843&title_color=d4a843&icon_color=d4a843"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprathm&layout=compact&langs_count=8&theme=radical&border_color=d4a843&title_color=d4a843"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrprathm&theme=radical&border=d4a843&ring=d4a843&fire=ff6b35&currStreakLabel=d4a843)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrprathm&theme=radical&column=7&margin-w=8&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Pratham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrprathm&theme=redical&bg_color=141414&color=d4a843&line=d4a843&point=ffffff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathamrathod200@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrprathm)
+[![Phone](https://img.shields.io/badge/Phone-+91--9890394356-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919890394356)
+[![Location](https://img.shields.io/badge/Location-Pune%2C_Maharashtra-FF5733?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Pune,Maharashtra)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Quote
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+**⭐ Star my repositories if you find them helpful!**
+
+</div>
