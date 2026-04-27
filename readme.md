@@ -1,14 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pratham%20Rathod&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Java%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Spring%20Boot%20%7C%20React.js&descAlignY=55&descSize=15"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Pratham%20Rathod&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Java%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=18&descAlignY=58&descFontColor=a8b2d8)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F0C040&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=👋+Hello%2C+I'm+Pratham+Rathod!;💻+Full+Stack+Java+Developer;🤖+AI%2FML+Enthusiast;🚀+Building+Scalable+Web+Applications)](https://git.io/typing-svg)
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=mrprathm&label=Profile%20Views&color=d4a843&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-<a href="https://github.com/mrprathm?tab=followers">
-<img src="https://img.shields.io/github/followers/mrprathm?label=Followers&style=for-the-badge&color=d4a843" />
-</a>
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║         👋 Hello World! I'm Pratham Rathod                  ║
+║                                                              ║
+║   💻 Full Stack Java Developer  |  🤖 AI/ML Enthusiast      ║
+║   📍 Pune, Maharashtra, India   |  🎓 B.E. IT (CGPA: 8.10) ║
+║   📧 prathamrathod200@gmail.com |  📞 +91-9890394356        ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=E94560&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=🚀+Building+Scalable+Web+Applications;☕+Java+%7C+Spring+Boot+%7C+Hibernate+%7C+REST+APIs;⚛️+React.js+%7C+JavaScript+%7C+HTML+%7C+CSS;🤖+Python+%7C+Machine+Learning+%7C+AI;🗄️+MySQL+%7C+JPA+%7C+JWT+%7C+Swagger+UI)
 
 </div>
 
@@ -17,93 +27,162 @@
 ## 👨‍💻 About Me
 
 ```java
-public class PrathamRathod {
+/**
+ * @author  Pratham Rathod
+ * @version 1.0
+ * @since   2024
+ */
+public class PrathamRathod extends Developer {
 
-    String name        = "Pratham Rathod";
-    String role        = "Full Stack Java Developer & AI/ML Enthusiast";
-    String location    = "Pune, Maharashtra 🇮🇳";
-    String email       = "prathamrathod200@gmail.com";
-    String phone       = "+91-9890394356";
+    // ── Personal Info ──────────────────────────────────────
+    private final String name      = "Pratham Rathod";
+    private final String role      = "Full Stack Java Developer & AI/ML Enthusiast";
+    private final String location  = "Pune, Maharashtra, India 🇮🇳";
+    private final String email     = "prathamrathod200@gmail.com";
+    private final String phone     = "+91-9890394356";
 
-    String[] education = {
-        "B.E. Information Technology — D.Y. Patil, Pune (CGPA: 8.10)",
-        "Diploma in CSE — Gramin Polytechnic, Nanded (90.74%)"
+    // ── Education ──────────────────────────────────────────
+    private final String degree1   = "B.E. IT — D.Y. Patil College of Engg, Pune | CGPA: 8.10";
+    private final String degree2   = "Diploma CSE — Gramin Polytechnic, Nanded | 90.74%";
+    private final String school    = "SSC — Raja Bhaigirath Vidyalaya, Nanded | 65%";
+
+    // ── Currently Working On ───────────────────────────────
+    private final String[] projects = {
+        "🛒 Full Stack E-Commerce — Spring Boot + React.js + MySQL",
+        "🤖 AI Document Chatbot — Python + Gemini AI + React",
+        "📡 REST APIs with JWT Security & Swagger Docs"
     };
 
-    String[] currentlyWorking = {
-        "🛒 Full Stack E-Commerce Platform (Spring Boot + React.js)",
-        "🤖 AI/ML Projects using Python & TensorFlow",
-        "📱 REST API Development with JWT Security",
-        "⚡ Scalable Web Applications"
+    // ── Interests ──────────────────────────────────────────
+    private final String[] interests = {
+        "Backend Development", "Artificial Intelligence",
+        "Machine Learning", "System Design", "Open Source"
     };
 
-    String[] interests = {
-        "Backend Development", "AI/ML",
-        "System Design", "Open Source"
-    };
-
-    String funFact = "I turn ☕ coffee into </code>!";
+    @Override
+    public String toString() {
+        return "Passionate about building scalable, " +
+               "real-world applications that solve problems!";
+    }
 }
 ```
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Skills & Technologies
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+
+### ☕ Full Stack Java
+```
+Java 17          ████████████  Expert
+Spring Boot      ████████████  Expert
+Spring Security  ██████████░░  Advanced
+Hibernate / JPA  ██████████░░  Advanced
+REST APIs        ████████████  Expert
+JWT Auth         █████████░░░  Advanced
+Maven            ████████░░░░  Intermediate
+Swagger UI       ████████░░░░  Intermediate
+JDBC             ███████░░░░░  Intermediate
+```
+
+</td>
+<td valign="top" width="33%">
+
+### 🤖 AI / Machine Learning
+```
+Python           ██████████░░  Advanced
+Machine Learning █████████░░░  Advanced
+TensorFlow       ███████░░░░░  Intermediate
+Scikit-Learn     ████████░░░░  Intermediate
+NumPy / Pandas   ████████░░░░  Intermediate
+OpenCV           ██████░░░░░░  Intermediate
+Gemini AI API    ████████░░░░  Intermediate
+NLP Basics       ██████░░░░░░  Learning
+```
+
+</td>
+<td valign="top" width="33%">
+
+### 🌐 Frontend & Tools
+```
+React.js         █████████░░░  Advanced
+JavaScript       █████████░░░  Advanced
+HTML5 / CSS3     ████████████  Expert
+Bootstrap        ██████████░░  Advanced
+Firebase Auth    ████████░░░░  Intermediate
+Git / GitHub     ██████████░░  Advanced
+MySQL            ██████████░░  Advanced
+VS Code          ████████████  Expert
+IntelliJ IDEA    ████████████  Expert
+```
+
+</td>
+  </tr>
+</table>
+
+---
+
+## 🏅 Tech Badges
 
 <div align="center">
 
-### ☕ Full Stack Java Development
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
+**Backend**
 
-### 🤖 AI / Machine Learning
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.2-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+**AI / ML**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### 🌐 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🗄️ Database & DevTools
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+**Database & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrprathm&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=d4a843&title_color=d4a843&icon_color=d4a843"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprathm&layout=compact&langs_count=8&theme=radical&border_color=d4a843&title_color=d4a843"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrprathm&show_icons=true&theme=tokyonight&hide_border=true&title_color=e94560&icon_color=e94560&text_color=a8b2d8&bg_color=0d1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprathm&layout=compact&theme=tokyonight&hide_border=true&title_color=e94560&text_color=a8b2d8&bg_color=0d1117&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrprathm&theme=radical&border=d4a843&ring=d4a843&fire=ff6b35&currStreakLabel=d4a843)](https://git.io/streak-stats)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrprathm&theme=tokyonight&hide_border=true&ring=e94560&fire=e94560&currStreakLabel=e94560&background=0d1117&stroke=e94560)
 
 </div>
 
@@ -113,17 +192,7 @@ public class PrathamRathod {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrprathm&theme=radical&column=7&margin-w=8&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Pratham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrprathm&theme=redical&bg_color=141414&color=d4a843&line=d4a843&point=ffffff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Trophies](https://github-profile-trophy.vercel.app/?username=mrprathm&theme=tokyonight&column=7&margin-w=8&no-bg=true&no-frame=true)
 
 </div>
 
@@ -133,10 +202,16 @@ public class PrathamRathod {
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathamrathod200@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrprathm)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919890394356)
-[![Location](https://img.shields.io/badge/Pune%2C_Maharashtra-FF5733?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Pune,Maharashtra)
+| Platform | Details |
+|---|---|
+| 📧 **Email** | prathamrathod200@gmail.com |
+| 📞 **Phone** | +91-9890394356 |
+| 📍 **Location** | Pune, Maharashtra, India |
+| 🐙 **GitHub** | github.com/mrprathm |
+
+[![Gmail](https://img.shields.io/badge/Gmail-prathamrathod200%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathamrathod200@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-mrprathm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrprathm)
+[![Phone](https://img.shields.io/badge/Phone-%2B91--9890394356-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919890394356)
 
 </div>
 
@@ -144,12 +219,10 @@ public class PrathamRathod {
 
 <div align="center">
 
-### 💡 Quote
+> *"First, solve the problem. Then, write the code."*
 
-> *"First, solve the problem. Then, write the code."* 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&animation=fadeIn)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
-**⭐ If you like my work, give a star to my repositories!**
+**⭐ Star my repositories if you find them helpful!**
 
 </div>
