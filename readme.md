@@ -185,22 +185,6 @@ Linux/Terminal     ███████░░░░░░  60%
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrprathm&show_icons=true&theme=tokyonight&hide_border=true&title_color=e94560&icon_color=e94560&text_color=a8b2d8&bg_color=0d1117" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrprathm&layout=compact&theme=tokyonight&hide_border=true&title_color=e94560&text_color=a8b2d8&bg_color=0d1117&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrprathm&theme=tokyonight&hide_border=true&ring=e94560&fire=e94560&currStreakLabel=e94560&background=0d1117&stroke=e94560)
-
-</div>
-
----
 
 ## 📬 Connect With Me
 
