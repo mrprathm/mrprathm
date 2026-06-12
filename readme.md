@@ -44,42 +44,6 @@ class PrathamRathod {
 
 ---
 
-## 🎯 Professional Highlights
-
-```yaml
-Role:
-  Full Stack Java Developer
-
-Education:
-  Degree: B.E. Information Technology
-  College: Dr. D. Y. Patil College of Engineering, Pune
-  CGPA: 8.10
-
-Specialization:
-  - Java & Spring Boot
-  - REST API Development
-  - Authentication & Authorization
-  - React.js Applications
-  - Machine Learning
-
-Current Focus:
-  - Scalable Backend Architecture
-  - System Design
-  - AI-Powered Applications
-```
-
----
-
-## 🚀 What I'm Working On
-
-- 🔹 Enterprise-grade Spring Boot Applications
-- 🔹 Secure Authentication & Authorization Systems
-- 🔹 RESTful API Design & Documentation
-- 🔹 AI/ML Integration in Real-world Applications
-- 🔹 Continuous Learning & Open Source Contributions
-
----
-
 ## 🏆 Core Strengths
 
 <div align="center">
@@ -107,12 +71,8 @@ Current Focus:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/919890394356">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </div>
