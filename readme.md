@@ -11,16 +11,26 @@
 ## 👨‍💻 About Me
 
 ```java
-PrathamRathod developer = new PrathamRathod();
+class PrathamRathod {
 
-developer.role = "Full Stack Java Developer";
-developer.education = "B.E Information Technology";
-developer.cgpa = 8.10;
-developer.location = "India 🇮🇳";
-developer.focus = "Backend Development & AI/ML";
+    final String ROLE =
+        "Full Stack Java Developer";
+
+    final String EDUCATION =
+        "B.E. Information Technology • D. Y. Patil COE, Pune";
+
+    final double CGPA = 8.10;
+
+    final String TECH_STACK =
+        "Java • Spring Boot • React • MySQL • Python";
+
+    final String CURRENT_FOCUS =
+        "Scalable Backend Systems & AI Solutions";
+
+    final String STATUS =
+        "Turning ideas into production-ready applications 🚀";
+}
 ```
-
----
 
 ## ⚡ Tech Stack
 
